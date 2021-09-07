@@ -9,7 +9,7 @@ Install the project locally
 ```
 
 ## Usage
-Go to 
+Go to https://senayyakut.github.io/ACCESSIBLITY-a11y/
 
 
 ## Contributing
